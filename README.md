@@ -1,4 +1,4 @@
-# Benzer karakter yapısında ilk 5 karakteri sabit tutup rasgele  örnekler oluşturarak text dosyasına yazma.
+# Benzer karakter yapısında, ilk 5 karakteri sabit tutup, rasgele  örnekler oluşturarak text dosyasına yazma.
 
 Örnek:"NH9CK7J7P3"
 
